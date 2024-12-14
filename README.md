@@ -18,7 +18,7 @@ Solve the common issues of lag, poor scalability, and lack of user-centric desig
 
 Explore and integrate modern web technologies for real-time communication and backend development.
 
-The Problem It Solves
+### The Problem It Solves
 
 ChatFlow addresses several challenges faced by existing messaging platforms:
 
@@ -72,7 +72,7 @@ User-Centric: Focused on delivering an exceptional user experience with minimal 
 
 Customizable: Flexible architecture that allows for future feature additions and integrations.
 
-Technologies Used
+### Technologies Used
 
 Frontend: React.js, Tailwind CSS for a modern, responsive UI.
 
