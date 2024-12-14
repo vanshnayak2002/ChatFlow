@@ -71,21 +71,25 @@ Scalability: Designed to handle thousands of users simultaneously.
 
 User-Centric: Focused on delivering an exceptional user experience with minimal learning curve.
 
-Customizable: Flexible architecture that allows for future feature additions and integrations.
+- Customizable: Flexible architecture that allows for future feature additions and integrations.
 
 ### Technologies Used
 
 Frontend: React.js, Tailwind CSS for a modern, responsive UI.
 
+
 Backend: Spring Boot for scalable API development.
+
 
 Real-Time Communication: WebSocket for instantaneous message delivery.
 
+
 Database: MongoDB for storing messages and user data.
+
 
 Authentication: JWT for secure and stateless user sessions.
 
-![RealTImeChatappManager.png]
+![RealTImeChatappManager.png](RealTImeChatManager.png)
 
 ### Installation and Setup
 
@@ -116,13 +120,13 @@ Authentication: JWT for secure and stateless user sessions.
 
 ### Future Enhancements
 
-Push Notifications: Notify users of new messages even when offline.
+- Push Notifications: Notify users of new messages even when offline.
 
-Video and Voice Calls: Integrate multimedia communication features.
+- Video and Voice Calls: Integrate multimedia communication features.
 
-AI-Driven Features: Smart message suggestions and sentiment analysis.
+- AI-Driven Features: Smart message suggestions and sentiment analysis.
 
-Dark Mode: Improved accessibility and user preference support.
+- Dark Mode: Improved accessibility and user preference support.
 
 ### Conclusion
 
