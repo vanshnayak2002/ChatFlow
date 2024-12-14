@@ -85,7 +85,7 @@ Database: MongoDB for storing messages and user data.
 
 Authentication: JWT for secure and stateless user sessions.
 
-![RealTimeChatApp](RealTImeChatManagerHR.png)
+![RealTimeChatApp](ChatappImages/RealTImeChatManagerHR.png)
 
 ### Installation and Setup
 
