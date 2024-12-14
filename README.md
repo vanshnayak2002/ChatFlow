@@ -88,28 +88,28 @@ Authentication: JWT for secure and stateless user sessions.
 
 **Clone the repository:**
 
-git clone https://github.com/vanshnayak2002/ChatFlow.git
+> git clone https://github.com/vanshnayak2002/ChatFlow.git
 
 **Navigate to the project directory:**
 
-cd ChatFlow
+> cd ChatFlow
 
 **Install dependencies:**
 
-npm install # For frontend
-mvn clean install # For backend
+> npm install # For frontend
+> mvn clean install # For backend
 
 **Start the backend server:**
 
-mvn spring-boot:run
+ > mvn spring-boot:run
 
 **Start the frontend:**
 
-npm start
+> npm start
 
 **Open your browser and navigate to:**
 
-http://localhost:3000
+> http://localhost:3000
 
 ### Future Enhancements
 
