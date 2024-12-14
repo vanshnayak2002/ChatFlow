@@ -85,7 +85,14 @@ Database: MongoDB for storing messages and user data.
 
 Authentication: JWT for secure and stateless user sessions.
 
+### Chat App
+
 ![ChatappImages/RealTImeChatManagerHR.png](https://github.com/vanshnayak2002/ChatFlow/blob/main/ChatApp%20Images/RealTImeChatManagerHR.png)
+
+
+### Database Connectivity
+
+![Db](https://github.com/vanshnayak2002/ChatFlow/blob/main/ChatApp%20Images/DatabseStorageMongoDB.png)
 
 ### Installation and Setup
 
