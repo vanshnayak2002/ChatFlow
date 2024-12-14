@@ -35,15 +35,15 @@ Usability: Offers an intuitive interface for both tech-savvy users and beginners
 
 Through the development of ChatFlow, I gained valuable insights into:
 
-Real-time data synchronization using WebSocket and similar protocols.
+- Real-time data synchronization using WebSocket and similar protocols.
 
-Backend development with frameworks like Spring Boot for scalable API design.
+- Backend development with frameworks like Spring Boot for scalable API design.
 
-Handling concurrency and optimizing performance for real-time applications.
+- Handling concurrency and optimizing performance for real-time applications.
 
-Implementing user authentication and secure communication channels.
+- Implementing user authentication and secure communication channels.
 
-Frontend design and integration for a smooth user experience.
+- Frontend design and integration for a smooth user experience.
 
 ### Features
 
@@ -84,6 +84,8 @@ Real-Time Communication: WebSocket for instantaneous message delivery.
 Database: MongoDB for storing messages and user data.
 
 Authentication: JWT for secure and stateless user sessions.
+
+![RealTImeChatappManager.png]
 
 ### Installation and Setup
 
