@@ -21,20 +21,18 @@ Explore and integrate modern web technologies for real-time communication and ba
 
 ### The Problem It Solves
 
-ChatFlow addresses several challenges faced by existing messaging platforms:
+**ChatFlow addresses several challenges faced by existing messaging platforms:**
+- Latency: Ensures low-latency communication for uninterrupted conversations.
 
-Latency: Ensures low-latency communication for uninterrupted conversations.
+- Scalability: Handles high traffic seamlessly, making it suitable for small groups and large organizations alike.
 
-Scalability: Handles high traffic seamlessly, making it suitable for small groups and large organizations alike.
+- Security: Implements robust encryption to ensure user privacy and data protection.
 
-Security: Implements robust encryption to ensure user privacy and data protection.
-
-Usability: Offers an intuitive interface for both tech-savvy users and beginners.
+- Usability: Offers an intuitive interface for both tech-savvy users and beginners.
 
 ### What I Learned
 
-Through the development of ChatFlow, I gained valuable insights into:
-
+**Through the development of ChatFlow, I gained valuable insights into:**
 - Real-time data synchronization using WebSocket and similar protocols.
 
 - Backend development with frameworks like Spring Boot for scalable API design.
@@ -47,29 +45,27 @@ Through the development of ChatFlow, I gained valuable insights into:
 
 ### Features
 
-ChatFlow comes packed with a variety of features that set it apart:
+**ChatFlow comes packed with a variety of features that set it apart:**
 
-Real-Time Messaging: Instant communication with no delays.
+- Real-Time Messaging: Instant communication with no delays.
 
-User Authentication: Secure login and registration system.
+- User Authentication: Secure login and registration system.
 
-Group Chats: Create and join chat groups for team collaboration.
+- Group Chats: Create and join chat groups for team collaboration.
 
-Read Receipts: Know when your messages are delivered and read.
+- Read Receipts: Know when your messages are delivered and read.
+  
+- Responsive Design: Works flawlessly on desktops, tablets, and mobile devices.
 
-Media Sharing: Share images, videos, and files seamlessly.
+- Encryption: Protects user data with end-to-end encryption.
 
-Responsive Design: Works flawlessly on desktops, tablets, and mobile devices.
+### What Makes It Stand Out
 
-Encryption: Protects user data with end-to-end encryption.
+- Performance: Optimized for low latency and high concurrency.
 
-What Makes It Stand Out
+- Scalability: Designed to handle thousands of users simultaneously.
 
-Performance: Optimized for low latency and high concurrency.
-
-Scalability: Designed to handle thousands of users simultaneously.
-
-User-Centric: Focused on delivering an exceptional user experience with minimal learning curve.
+- User-Centric: Focused on delivering an exceptional user experience with minimal learning curve.
 
 - Customizable: Flexible architecture that allows for future feature additions and integrations.
 
@@ -89,7 +85,7 @@ Database: MongoDB for storing messages and user data.
 
 Authentication: JWT for secure and stateless user sessions.
 
-![RealTImeChatappManager.png](RealTImeChatManager.png)
+![RealTimeChatApp](RealTImeChatManagerHR.png)
 
 ### Installation and Setup
 
